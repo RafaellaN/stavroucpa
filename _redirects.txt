@@ -1,0 +1,4 @@
+#Redirects for angelos site to look pretty :))
+/home              /
+/news.html         /blog
+/index.html	   /
